@@ -5,7 +5,7 @@
 
 #Project using NPM
 
->> npm install Yarn #How to install Yarn
+>> npm install -g Yarn #How to install Yarn
 
 >> yarn create expo-app "App Name" #Create a app using expo
 
