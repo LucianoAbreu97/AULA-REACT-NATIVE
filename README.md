@@ -1,4 +1,5 @@
 # AULA-REACT-NATIVE
 
->> npm install Yarn #Instalar Yarn dentro do NPM
->> yarn create expo-app "Nome App" #Criação de Aplicação em Yarn
+>> npm install Yarn #How to install Yarn
+>> yarn create expo-app "Nome App" #Create a app using expo
+>> code . #Open the project inside VisualStudioCode
