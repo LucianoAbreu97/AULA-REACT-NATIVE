@@ -1,4 +1,4 @@
-#Dependencies
+#Dependencie
 > Node.js, JDK, yarn, choco
 
 # AULA-REACT-NATIVE
