@@ -15,4 +15,6 @@
 
 #Project using NPX
 
->> npx react-native init "App Name"
+>> npx react-native init "App Name" #Create a Project with NPX
+
+>> npx react-native run-android # Run the application on Android
